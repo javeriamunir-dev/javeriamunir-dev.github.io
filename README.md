@@ -47,15 +47,18 @@ A comprehensive collection of 5 projects showcasing practical application across
 
 ---
 
-## 🎓 Academic Background & Research
 
-I hold a **Master's Degree** from **The Islamia University, Bahawalpur**, which has provided me with a strong research foundation.
+## 🎓 Academic Background & Major Project
 
-### Thesis/Major Project: [Aapke Thesis ka Naam Yahan Likhein]
-* **Focus:** [Aik choti line, jaise: "Applying Deep Learning for predictive modeling in the healthcare sector."]
-* **Methodology:** [Mention the main technique, jaise: "Employed CNNs/LSTM for sequence analysis."]
-* **Thesis/Code Repository:** [Agar iska code GitHub par hai, toh link yahan dein]
+I hold a **Master's Degree** from **The Islamia University, Bahawalpur**, which has provided me with a strong system development and technical foundation.
 
+### Major Project: 🖼️ Online Art Gallery Management System
+This project showcases robust full-stack development skills, which are essential for deploying and managing modern applications.
+
+* **Focus:** Developing a complete, user-centric e-commerce and management system for an online art gallery.
+* **Methodology & Stack:** Implemented using **PHP** for server-side scripting, with **MySQL** as the relational database management system for secure data handling.
+* **Key Skills Highlighted:** Relational Database Design, Server-Side Scripting, Full-Stack System Architecture, and Object-Oriented Programming (OOP) principles.
+---
 ---
 
 ## 🏆 Verified Certification
