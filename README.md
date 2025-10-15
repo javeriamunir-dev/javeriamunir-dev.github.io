@@ -29,7 +29,7 @@ A comprehensive collection of 5 projects showcasing practical application across
 ### 1. 🖼️ Cat and Dog Image Classifier (Deep Learning - CNN)
 **Focus:** Image Classification using **Convolutional Neural Networks (CNNs)**.
 * ➡️ **Demonstrates:** Building and optimizing a CNN model with **TensorFlow/Keras** for high-accuracy visual recognition.
-* **Project Repository:** [Link to your Cat and Dog Classifier GitHub Repo]
+* **Project Repository:** [https://github.com/javeriamunir-dev/Cat-and-Dog-Image-Classifier-Deep-Learning---CNN-]
 
 ### 2. 📧 Neural Network SMS Text Classifier (NLP)
 **Focus:** Natural Language Processing (NLP) for binary classification (Spam/Ham).
